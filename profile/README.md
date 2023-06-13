@@ -21,5 +21,22 @@
 <p> Fashion trends always change over time. Fashion is not just about following trends or looking good, it is a form of self-expression that can communicate a person's identity, personality, and values. Online Survey Platform and Consumer Insights service provider, Populix, released a survey titled "Indonesia in 2022: Looking at Fashion Trends & Economy Revival". As a result, a simple fashion style is the choice of the Indonesian people with a percentage of 73%. While 68% of respondents chose a casual style. Populix also found that both male and female respondents mostly chose simple clothing styles. 
 </p>
 
+## Our Repositories
+
+<ul>
+  <li>
+    API Repositories
+  </li>
+  <li>
+    Machine Learning Repositories
+  </li>
+  <li>
+    Application Repositories
+  </li>
+</ul>
+  
+  
+
+
 
          
