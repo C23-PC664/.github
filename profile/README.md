@@ -25,7 +25,7 @@
 
 <ul>
   <li>
-    <a href="https://github.com/C23-PC664/mix-mate-CC">API Repositories</a>
+    <a href="https://github.com/C23-PC664/mix-mate-CC">Cloud Computing Repositories</a>
   </li>
   <li>
     <a href="https://github.com/C23-PC664/MixMate-Flask"> Machine Learning Repositories </a>
