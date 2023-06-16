@@ -25,13 +25,13 @@
 
 <ul>
   <li>
-    API Repositories
+    <a href="https://github.com/C23-PC664/mix-mate-CC">API Repositories</a>
   </li>
   <li>
-    Machine Learning Repositories
+    <a href="https://github.com/C23-PC664/MixMate-Flask"> Machine Learning Repositories </a>
   </li>
   <li>
-    Application Repositories
+    <a href ="https://github.com/C23-PC664/MixMate"> Application Repositories </a>
   </li>
 </ul>
   
